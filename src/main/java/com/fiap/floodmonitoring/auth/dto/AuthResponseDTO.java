@@ -1,0 +1,7 @@
+package com.fiap.floodmonitoring.auth.dto;
+
+public record AuthResponseDTO(
+        String token,
+        String type
+) {
+}
