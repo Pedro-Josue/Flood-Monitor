@@ -57,7 +57,7 @@ RiskAnalysisService -> Repository -> Banco de Dados -> Controller -> Cliente
 ### 1. Clonar o repositorio
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Pedro-Josue/Flood-Monitor
 cd Flood-monitor
 ```
 
